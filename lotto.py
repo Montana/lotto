@@ -32,11 +32,11 @@ class Student:
 
     @staticmethod # gets no 1st argument
     def go_to_eat():
-        print('FOOD FOOD FOOD')
+        print('FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD FOOD')
 
 
 # when this method is called IT ALWAYS passes self in automatically, as an argument. So you have to declare it a classmethod(cls)
-wolfe = Student('Wolfe', 'USL')
+wolfe = Student('Montana', 'USL')
 wolfe.go_to_school()
 wolfe.go_to_eat()
 
