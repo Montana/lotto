@@ -7,9 +7,9 @@ class LotteryPlayer:
         return sum(self.numbers)
 
 # each player has the assigned numbers, to change that just assign new numbers
-player_one = LotteryPlayer('Wolfe')
+player_one = LotteryPlayer('Montana')
 player_two = LotteryPlayer('Jake')
-player_three = LotteryPlayer('Sara')
+player_three = LotteryPlayer('Travis')
 
 # this is assuming assigning player_one new numbers. We are deleting the init self tuple and just creating a new one for that instance.
 player_one.numbers = (2, 4, 6, 8, 10, 12)
